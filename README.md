@@ -11,15 +11,9 @@ For this project, work is done in [Reacher](https://github.com/Unity-Technologie
 
 ![Trained Agent][image1]
 
-In this environment, a double-jointed arm can move to target locations. A### (Optional) Challenge: Soccer Environment
+In this environment, a double-jointed arm can move to target locations.   
 
-After you have successfully completed the project, you might like to solve the more difficult **Soccer** environment. 
-
-![Soccer][image2]
-
-In this environment, the goal is to train a team of agents to play soccer.  
-
-You can read more about this environment in the ML-Agents GitHub [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#soccer-twos).  To solve this harder task, you'll need to download a new Unity environment.  (**Note**: Udacity students should not submit a project with this new environment.) reward of +0.1 is provided for each step that the agent's hand is in the goal location. 
+You can read more about this environment in the ML-Agents GitHub [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#soccer-twos).  To solve this harder task, you'll need to download a new Unity environment. Reward of +0.1 is provided for each step that the agent's hand is in the goal location. 
 
 1. The goal of your agent :  
 
